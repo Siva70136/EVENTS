@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.event-container {
+  display: flex;
+  justify-content: space-between;
+}
+.event-item-container {
+  background-color: #64748b;
+  width: 50%;
+}
+
+.event-items {
+  display: flex;
+  flex-wrap: wrap;
+
+  padding: 30px;
+}
